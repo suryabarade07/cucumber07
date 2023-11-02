@@ -15,6 +15,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class BaseClass {
 	// base class comment line
+	// 
 	
 	public static WebDriver driver;
 	public static Properties prop;
